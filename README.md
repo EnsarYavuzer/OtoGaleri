@@ -1,0 +1,2 @@
+# OtoGaleri
+ASP .Net project 
